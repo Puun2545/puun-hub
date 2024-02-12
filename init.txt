@@ -1,0 +1,3 @@
+This is start up project that will loging update manually :)
+
+12/02/24 - Project kick off lets do it >> Learning domain deployment
