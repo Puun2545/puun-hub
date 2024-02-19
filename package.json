@@ -1,0 +1,19 @@
+{
+  "name": "puun-hub",
+  "version": "1.0.0",
+  "description": "Web Application Project that improve my Cloud | Development | DevOps | Network | Infrastructure Skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.4.17",
+    "express": "^4.18.2",
+    "tailwindcss": "^3.4.1"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.35"
+  }
+}
